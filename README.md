@@ -1,4 +1,4 @@
-# anaconda_set_up
+# Anaconda Production Set Up for Mac
 Set Up Anaconda Environment with Installation if necessary: all in one script
 
 These bash scripts are for shipping Anaconda to production.
