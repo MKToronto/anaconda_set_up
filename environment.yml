@@ -1,4 +1,4 @@
-name: fastapi
+name: environment_name
 channels:
   - fastai
   - conda-forge
