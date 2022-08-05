@@ -1,0 +1,29 @@
+name: fastapi
+channels:
+  - fastai
+  - conda-forge
+  - anaconda-fusion
+  - defaults
+dependencies:
+  - pandas
+  - python-docx
+  - redis-server
+  - yaml
+  - requests
+  - fastapi
+  - scikit-image
+  - pylint
+  - redis
+  - paramiko
+  - rq
+  - scp
+  - opencv
+  - nodejs=16.14
+  - scipy
+  - python-dateutil=2.8.2
+  - uvicorn
+  - fastai=1.0.61
+  - pip
+  - python=3.9.12
+  - matplotlib
+  - pillow
