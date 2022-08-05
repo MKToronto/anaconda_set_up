@@ -13,7 +13,7 @@ echo "Updating Conda"
 conda update conda
 echo "Updating Anaconda"
 conda update anaconda
-echo "Creating FastAPI Environment"
+echo "Creating Environment"
 # Change environment.yml and environment_name to suit your code
 conda env create --file environment.yml -n environment_name --force 
 echo "Set Up Finished" 
